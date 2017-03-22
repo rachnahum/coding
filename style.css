@@ -1,0 +1,211 @@
+
+#yaakov {
+    background-color: teal;
+
+}
+#yaakov h1 {
+    color:orange;
+}
+#yaakov h2 {
+    color:red;
+}
+#yaakov p{
+    color:yellow;
+}
+#yaakov h3{
+    color:purple;
+}
+#yaakov ol{
+    color:green;
+}
+#gad {
+    background-color: orange;
+}
+#gad h1 {
+ color:pink;   
+}
+#gad h2 {
+    color:white;
+}  
+#gad p {
+   color:black; 
+}
+#gad h3 {
+    color:red;
+}
+#gad ol {
+    color:green;
+}
+#benny {
+    background-color: purple;
+}
+#benny h1 {
+    color:orange;
+}
+#benny p {
+    color:blue;
+    font-size: 34;
+}
+#benny h2 {
+    color:blue;
+}
+#benny h3 {
+    color:black;
+}
+#benny ol {
+    color:pink;
+}
+#lipa {
+    background-color: khaki
+}
+#lipa h1 {
+    color:brown;
+}
+#lipa h2 {
+    color:red;
+}
+#lipa ol {
+    color:white;
+}
+#lipa h3 {
+    color:green;
+}
+#avraham {
+    background-color: black;
+}
+#avraham h1 {
+    color:red;
+}
+#avraham h2 {
+    color:blue;
+}
+#avraham ol {
+    color:purple;
+}
+#avraham h3 {
+    color:yellow;
+}
+#eyal {
+    background-color:blue;
+}
+#eyal h1 { 
+    color:purple;
+}
+#eyal h2 {
+    color:orange;
+}
+#eyal p {
+    color: green;
+}
+
+#eyal h3 {
+    color: pink;
+}
+#eyal ol {
+    color:yellow;
+}
+#shlomi {
+    background-color: pink;
+}
+#shlomi h1{
+    color:blue;
+}
+#shlomi h2 {
+    color:green;
+}
+#shlomi p {
+    color:red;
+}
+#shlomi h3 {
+    color:magenta;
+}
+#shlomi ol {
+    color:yellow;
+}
+#omer {
+    background-color:af66ad;
+}
+#omer h1 {
+    color:pink;
+}
+#omer h2 {
+    color:yellow;
+}
+#omer p {
+    color:red;
+}
+#omer h3 {
+    color:purple;
+}
+#omer ol {
+    color:green;
+}
+#sarit {
+    background-color: f2b0bd
+}
+#sarit h1 {
+    color:blue;
+}
+#sarit h2 {
+    color:orange;
+}
+#sarit h3 {
+    color:#7f3a48;
+}
+#sarit p {
+    color:yellow;
+}
+#sarit ol {
+    color:green;
+}
+#zehava {
+    background-color:green;
+}
+#zehava h1 {
+    color:orange;
+}
+#zehava h2 {
+    color:purple
+}
+#zehava h3 {
+    color:red;
+}
+#zehava p {
+    color:yellow;
+}
+#zehava ol {
+    color:teal;
+}
+#title {
+    background-color: orange;
+}
+#title {
+    color:blue;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+h1 {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+h2 {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+p {
+    font-family: 'Ranga', cursive;
+    text-align: center;
+}
+h3 {
+    font-family: 'Fascinate Inline', cursive;
+    text-align: center;
+}
+ol {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+img {
+      border-radius: 50%;
+      
+}
+
